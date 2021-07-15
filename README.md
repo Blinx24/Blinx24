@@ -12,7 +12,7 @@ Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarro
 # ¡Links importantes!
 ## Mis redes 📱
 * [Instagram](https://www.instagram.com/blinx2412/?hl=es)
-* [Twiiter](https://twitter.com/blinx2412)
+* [Twitter](https://twitter.com/blinx2412)
 * [LinkedIn](https://www.linkedin.com/in/antonio-rafael-ruano-rodr%C3%ADguez-8326b2185/)
 ## Otros enlaces de interés 🕹️
 * [Itch.io](https://blinx24.itch.io/)
