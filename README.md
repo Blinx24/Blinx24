@@ -1,7 +1,9 @@
-# ✌️¡Hola!✌️ 
+# ¡Hola!✌️ 
 ![Text separator](separator.png)
 
 
+![Text separator](separator.png)
+# Mis estadísticas 📊 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blinx24&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
