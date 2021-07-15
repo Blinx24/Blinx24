@@ -1,6 +1,8 @@
-### Hi there 👋
+# ¡Hola! 
 ┬┴┬┴┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈├┬┴┬┴
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Blinx24/Blinx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
