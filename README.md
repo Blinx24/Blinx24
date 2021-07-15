@@ -2,7 +2,7 @@
 ┬┴┬┴┤┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈├┬┴┬┴
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&hide=contribs,issues&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blinx24&langs_count=4&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
