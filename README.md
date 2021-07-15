@@ -1,4 +1,5 @@
 # ¡Hola!✌️ 
+Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarrollo de videojuegos_ en la universivdad Rey Juan Carlos.
 
 ![Text separator](separator.png)
 
