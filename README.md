@@ -1,5 +1,6 @@
 # ¿Quién soy? 👤
 Soy __Antonio Ruano__, estudiante de 21 años en la universidad Rey Juan Carlos (Madrid). Concretamente, estoy estudiando _Diseño y Desarrollo de Videojuegos_.
+
 Soy de Huelva, una ciudad situada al suroeste de Andalucía, España.
 
 ## ¿Cuáles son mis aptitudes e intereses?
