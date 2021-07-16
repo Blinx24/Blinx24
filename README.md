@@ -1,8 +1,10 @@
-# ¡Hola!✌️ 
-Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarrollo de videojuegos_ en la universivdad Rey Juan Carlos.
+# ¿Quién soy? 👤
+Soy __Antonio Ruano__, estudiante de 21 años en la universidad Rey Juan Carlos (Madrid). Concretamente, estoy estudiando _Diseño y Desarrollo de Videojuegos_.
+Soy de Huelva, una ciudad situada al suroeste de Andalucía, España.
 
 ## ¿Cuáles son mis aptitudes e intereses?
-👨‍💻 Por ahora, he aprendido los siguientes lenguajes de programación:
+### Aptitudes 👨‍💻
+Por ahora, he aprendido los siguientes lenguajes de programación:
 * A un nivel avanzado:
   * Java.
   * JavaScript.
@@ -22,9 +24,14 @@ Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarro
 * Videojuegos.
 * Informática y la programación.
 * Escuchar música (sobre todo la electrónica), incluyendo mientras trabajo.
+* El modelado y la animación 3D.
+
+En un futuro me encantaría dedicarme a la programación en el desarrollo de videojuegos.
 
 ## ¿Qué puedes encontrar en mi GitHub? 📔
 En mi GitHub podrás encontrar proyectos realizados para el grado de _Diseño y desarrollo de videojuegos_ o incluso proyectos personales los cuales quiero compartir para que el resto del mundo pueda ver mi trabajo y emplearlo como ayuda en caso necesario.
+
+En un futuro iré creando nuevos repositorios con más código de nuevos proyectos que compartir o iré actualizando los proyectos existentes con mejoras.
 
 ![Text separator](separator.png)
 
