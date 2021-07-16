@@ -1,9 +1,24 @@
 # ¡Hola!✌️ 
 Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarrollo de videojuegos_ en la universivdad Rey Juan Carlos.
 
+## ¿Cuáles son mis intereses?
+🕹️ Videojuegos.
+
+💻 Informática.
+
+👨‍💻 Programación.
+
+🎵 Música (sobre todo electrónica).
+
+
+## ¿Qué puedes encontrar en mi GitHub? 📔
+En mi GitHub podrás encontrar proyectos realizados para el grado de _Diseño y desarrollo de videojuegos_ o incluso proyectos personales los cuales quiero compartir para que el resto del mundo pueda ver mi trabajo y emplearlo como ayuda en caso necesario.
+
 ![Text separator](separator.png)
 
-# Mis estadísticas 📊
+# Mis estadísticas de GitHub 📊
+A continuación te dejo un breve resumen de la actividad de mi cuenta y de los lenguajes con los que más he trabajado para que le puedas echar un vistazo.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blinx24&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
