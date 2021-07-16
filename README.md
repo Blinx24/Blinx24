@@ -20,7 +20,8 @@ Por ahora, he aprendido los siguientes lenguajes de programación:
  * Phaser (JavaScript).
  * RPG Maker.
 
-🕹️ En cuanto a mis intereses, podemos encontrar:
+### Intereses y hobbies 🕹️
+En cuanto a mis intereses, podemos encontrar:
 * Videojuegos.
 * Informática y la programación.
 * Escuchar música (sobre todo la electrónica), incluyendo mientras trabajo.
