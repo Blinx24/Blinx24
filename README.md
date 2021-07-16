@@ -1,15 +1,27 @@
 # ¡Hola!✌️ 
 Soy __Antonio Ruano__, estudiante de 21 años de 4º grado en _Diseño y desarrollo de videojuegos_ en la universivdad Rey Juan Carlos.
 
-## ¿Cuáles son mis intereses?
-🕹️ Videojuegos.
+## ¿Cuáles son mis aptitudes e intereses?
+👨‍💻 Por ahora, he aprendido los siguientes lenguajes de programación:
+* A un nivel avanzado:
+  * Java.
+  * JavaScript.
+  * C/C++.
+  * C#.
+* Y a un nivel algo más básico:
+  * HTML.
+  * CSS.
+ 
+ En cuanto a motores de videojuegos, se puede destacar:
+ * Unity.
+ * Unreal Engine 4.
+ * Phaser (JavaScript).
+ * RPG Maker.
 
-💻 Informática.
-
-👨‍💻 Programación.
-
-🎵 Música (sobre todo electrónica).
-
+🕹️ En cuanto a mis intereses, podemos encontrar:
+* Videojuegos.
+* Informática y la programación.
+* Escuchar música (sobre todo la electrónica), incluyendo mientras trabajo.
 
 ## ¿Qué puedes encontrar en mi GitHub? 📔
 En mi GitHub podrás encontrar proyectos realizados para el grado de _Diseño y desarrollo de videojuegos_ o incluso proyectos personales los cuales quiero compartir para que el resto del mundo pueda ver mi trabajo y emplearlo como ayuda en caso necesario.
