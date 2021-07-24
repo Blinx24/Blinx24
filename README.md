@@ -45,13 +45,10 @@ A continuación te dejo un breve resumen de la actividad de mi cuenta y de los l
 
 ![Text separator](separator.png)
 
-# ¡Links importantes!
-## Mis redes 📱
-* [Instagram](https://www.instagram.com/blinx2412/?hl=es)
-* [Twitter](https://twitter.com/blinx2412)
-* [LinkedIn](https://www.linkedin.com/in/antonio-rafael-ruano-rodr%C3%ADguez-8326b2185/)
-## Otros enlaces de interés 🕹️
-* [Itch.io](https://blinx24.itch.io/)
+# ¡Links importantes! 📱
+En mi biografía podrás encontrar un enlace a mi **[LinkTree](https://www.instagram.com/blinx2412/?hl=es)** donde podrás acceder a:
+* Enlaces de interés como mi **itch.io** o la página de mi último juego publicado.
+* Mis redes sociales para que puedas saber más sobre mí o para contactar conmigo.
 
 <!--
 **Blinx24/Blinx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
