@@ -40,7 +40,7 @@ En un futuro iré creando nuevos repositorios con más código de nuevos proyect
 # Mis estadísticas de GitHub 📊
 A continuación te dejo un breve resumen de la actividad de mi cuenta y de los lenguajes con los que más he trabajado para que le puedas echar un vistazo.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&include_all_commits=true&count_private=true&hide=stars,issues&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blinx24&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blinx24&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Text separator](separator.png)
