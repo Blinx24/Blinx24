@@ -8,11 +8,11 @@ Mi ciudad natal es Huelva, una ciudad situada al suroeste de Andalucía, España
 Por ahora, he aprendido los siguientes lenguajes de programación:
 
 Iconos | Lenguaje | Nivel | Porcentaje
------------- | ------------- | ------------- | -------------
-![Java](java.png) | Java | Intermedio / Avanzado | ![JavaP](javap.png)
------------- | ------------- | ------------- | -------------
------------- | ------------- | ------------- | -------------
------------- | ------------- | ------------- | -------------
+------------ | ------------- | -------------
+![Java](java.png) | Java | Intermedio / Avanzado
+------------ | ------------- | -------------
+------------ | ------------- | -------------
+------------ | ------------- | -------------
 
 
 * A un nivel avanzado:
