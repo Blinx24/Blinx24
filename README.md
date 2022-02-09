@@ -14,7 +14,8 @@ Por ahora, he aprendido los siguientes lenguajes de programación:
 ![C++](c++.png) | C / C++ | Intermedio
 ![C#](cs.png) | C# | Avanzado
 ![Python](python.png) | Python | Básico
-
+![HTML](html.png) | HTML 5 | Básico
+![CSS](css.png) | CSS 3 | Básico
 
 * Y a un nivel algo más básico:
   * HTML.
