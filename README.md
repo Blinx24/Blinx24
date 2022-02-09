@@ -7,7 +7,7 @@ Mi ciudad natal es Huelva, una ciudad situada al suroeste de Andalucía, España
 ### Aptitudes 👨‍💻
 Por ahora, he aprendido los siguientes lenguajes de programación:
 
-Iconos | Lenguaje | Nivel
+ㅤ | Lenguaje | Nivel
 ------------ | ------------- | -------------
 ![Java](java.png) | Java | Intermedio / Avanzado
 ![JavaScript](js.png) | JavaScript | Intermedio
