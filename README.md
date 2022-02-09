@@ -9,7 +9,7 @@ Por ahora, he aprendido los siguientes lenguajes de programación:
 
 Iconos | Lenguaje | Nivel | Porcentaje
 ------------ | ------------- | ------------- | -------------
-![Java](java.png) | Java | Intermedio / Avanzado | -------------
+![Java](java.png) | Java | Intermedio / Avanzado | ![JavaP](javap.png)
 ------------ | ------------- | ------------- | -------------
 ------------ | ------------- | ------------- | -------------
 ------------ | ------------- | ------------- | -------------
