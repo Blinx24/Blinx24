@@ -1,11 +1,19 @@
 # ¿Quién soy? 👤
-Soy __Antonio Ruano__, estudiante de 21 años en la universidad Rey Juan Carlos (Madrid). Concretamente, estoy estudiando _Diseño y Desarrollo de Videojuegos_.
+Soy __Antonio Ruano__, estudiante de 21 años en la universidad Rey Juan Carlos (Madrid). Concretamente, estoy estudiando _Diseño y Desarrollo de Videojuegos_. Además, soy miembro activo y fundador del grupo **[Virtual Ravens Games](https://github.com/VRSDevs)**.
 
-Soy de Huelva, una ciudad situada al suroeste de Andalucía, España, aunque actualmente estoy viviendo en Madrid.
+Mi ciudad natal es Huelva, una ciudad situada al suroeste de Andalucía, España, aunque actualmente estoy viviendo en Madrid.
 
 ## ¿Cuáles son mis aptitudes e intereses?
 ### Aptitudes 👨‍💻
 Por ahora, he aprendido los siguientes lenguajes de programación:
+
+Lenguaje | Nivel | Porcentaje
+------------ | ------------- | -------------
+------------ | ------------- | -------------
+------------ | ------------- | -------------
+------------ | ------------- | -------------
+
+
 * A un nivel avanzado:
   * Java.
   * JavaScript.
@@ -30,7 +38,7 @@ En cuanto a mis intereses, podemos encontrar:
 
 En un futuro me encantaría dedicarme a la programación en el desarrollo de videojuegos.
 
-## ¿Qué puedes encontrar en mi GitHub? 📔
+# ¿Qué puedes encontrar en mi GitHub? 📔
 En mi GitHub podrás encontrar proyectos realizados para el grado de _Diseño y desarrollo de videojuegos_ o incluso proyectos personales los cuales quiero compartir para que el resto del mundo pueda ver mi trabajo y emplearlo como ayuda en caso necesario.
 
 En un futuro iré creando nuevos repositorios con más código de nuevos proyectos que compartir o iré actualizando los proyectos existentes con mejoras.
