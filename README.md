@@ -17,15 +17,13 @@ Por ahora, he aprendido los siguientes lenguajes de programación:
 ![HTML](html.png) | HTML 5 | Básico
 ![CSS](css.png) | CSS 3 | Básico
 
-* Y a un nivel algo más básico:
-  * HTML.
-  * CSS.
- 
  En cuanto a motores de videojuegos, se puede destacar:
- * Unity.
- * Unreal Engine 4.
- * Phaser (JavaScript).
- * RPG Maker.
+ 
+ㅤ | Motor | Nivel
+------------ | ------------- | -------------
+![Unity](unity.png) | Unity | Intermedio
+![UnrealEngine](uengine.png) | Unreal Engine 4 | Intermedio
+![Engine](engine.png) | RPG Maker / Phaser 3 | Intermedio
 
 ### Intereses y hobbies 🕹️
 En cuanto a mis intereses, podemos encontrar:
