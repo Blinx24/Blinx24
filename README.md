@@ -10,16 +10,12 @@ Por ahora, he aprendido los siguientes lenguajes de programación:
 Iconos | Lenguaje | Nivel
 ------------ | ------------- | -------------
 ![Java](java.png) | Java | Intermedio / Avanzado
------------- | ------------- | -------------
------------- | ------------- | -------------
------------- | ------------- | -------------
+![JavaScript](js.png) | JavaScript | Intermedio
+![C++](c++.png) | C / C++ | Intermedio
+![C#](cs.png) | C# | Avanzado
+![Python](python.png) | Python | Básico
 
 
-* A un nivel avanzado:
-  * Java.
-  * JavaScript.
-  * C/C++.
-  * C#.
 * Y a un nivel algo más básico:
   * HTML.
   * CSS.
